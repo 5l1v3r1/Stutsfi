@@ -16,7 +16,7 @@ BRed='\033[1;31m'
 
 
 echo -e "${Cyan}+-------------------------------------------------------------------+${NC}"
-echo -e "${Cyan}|${NC}                      ${BGreen}[${NC}${BRed}LULZSEC STUTS-2 EXPLOIT${NC}${BGreen}]${NC}                    ${Cyan}|${NC}"
+echo -e "${Cyan}|${NC}                      ${BGreen}[${NC}${BRed}    VDU STUTS-2 EXPLOIT${NC}${BGreen}]${NC}                    ${Cyan}|${NC}"
 echo -e "${Cyan}|${NC}                                                                   ${Cyan}|${NC}"
 echo -e "${Cyan}|${NC}                                            | ${NC}${Yellow}Coder:${NC}${BGreen} Suvadip Kar${NC}${NC} | ${NC}${Cyan}|${NC}"
 echo -e "${Cyan}|${NC}${BRed}USAGE:-${NC} explx.sh ${BGreen}http://site.com/log.action${NC} | ${Yellow}Version:${NC} ${BGreen}1.0${NC}       | ${Cyan}|${NC}"
